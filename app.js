@@ -10,7 +10,7 @@
 
 var taskInput = document.querySelector(".task_new .task__input")//Add a new task.
 var addButton = document.querySelector(".button_add")//first button
-var incompleteTaskHolder = document.querySelector(".tasks_incomplete")//ul of #incompleteTasks
+var incompleteTaskHolder = document.querySelector(".tasks_incomplete")//ul of incompleteTasks
 var completedTasksHolder = document.querySelector(".tasks_completed")//completed-tasks
 
 
