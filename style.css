@@ -125,6 +125,7 @@ button {
 
 .task_new {
   border-bottom: 0;
+  padding: 0;
 }
 
 .task__label {
